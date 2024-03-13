@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+a{
+  padding: 10px;
+  color: grey;
+}
+
+figcaption{
+    font-size: small;
+    text-align: center;
+}
+
+p{
+  width: 800px;
+}
+
+#img{
+  width: 900px;
+}
+
+div{
+  float: left;
+  background-color: blue;
+  text-align: center;
+  width: 25%;
+}
+
